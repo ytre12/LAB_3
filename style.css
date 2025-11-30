@@ -83,6 +83,7 @@ header {
 }
 
 button {
+  width: 200px;
   margin-inline: 5px;
   color: #090909;
   padding: 0.5em 1.3em;
